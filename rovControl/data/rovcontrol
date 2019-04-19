@@ -1,0 +1,4 @@
+to control ROV
+thrusterFL	Front Left Thruster Throttle	3	SLIDER	Y Axis	0	1.0	0.0
+thrusterFR	Front Right Thruster Throttle	3	SLIDER	Y Rotation	0	1.0	0.0
+pitchDesired	Pitch from GamePad	2	HAT	cooliehat: Hat Switch	0	1.0	0.0

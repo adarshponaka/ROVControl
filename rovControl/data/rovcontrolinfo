@@ -1,0 +1,6 @@
+RovControl
+thrusterFL	front left thruster throttle	3	SLIDER	Y Axis	0	1.0	0.0
+thrusterFR	front right thruster throttle	3	SLIDER	Y Rotation	0	1.0	0.0
+pitchDesired	desired pitch virtual	2	HAT	cooliehat: Hat Switch	0	1.0	0.0
+90mode	all 90 degree mode	1	BUTTON	Button 0	0	0.0	0.0
+hookheight	changing height of hook	3	SLIDER	Z Axis	0	1.0	0.0
